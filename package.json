@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-typescript-styled",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "styled"
+  ],
+  "description": "The base TypeScript template with styled component for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rewweRrr/cra-template-typescript-styled.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/rewweRrr/cra-template-typescript-styled/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
